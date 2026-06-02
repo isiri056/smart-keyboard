@@ -1,4 +1,2 @@
 streamlit
-pyspellchecker==0.8.1tensorflow
-numpy
-scikit-learn
+pyspellchecker==0.8.1
